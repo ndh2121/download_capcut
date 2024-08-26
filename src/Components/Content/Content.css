@@ -1,0 +1,296 @@
+.dkwlcclwk {
+    padding: 112px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.kdkkloiwrk {
+    max-width: 1360px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 88px;
+    position: relative;
+}
+
+.editor_lkwjoiwfl {
+    padding-left: 108px;
+    flex: 1;
+}
+.kjciowckldcl {
+    color: rgb(43, 43, 54);
+    font-family: "Albert Sans", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    margin-top: 8px;
+}
+
+.ksjchiuwfkl {
+    width: 380px;
+}
+
+.lkcjwoicjwkwkl {
+    color: rgb(22, 22, 29);
+    font-family: "Albert Sans", sans-serif;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 32px;
+    margin-bottom: 20px;
+}
+
+.lkdoiwrjkl {
+    margin-top: 60px;
+    padding: 40px 0 20px 0;
+    background-color: rgb(245, 248, 252);
+    border-radius: 16px;
+}
+
+.lkcjkowicdlscs {
+    font-family: "Albert Sans", sans-serif;
+    font-weight: 800;
+    margin: 0;
+    padding: 0 40px 8px;
+}
+.kldcjoiwjcdsikl {
+    color: rgb(22, 22, 29);
+    font-family: "Albert Sans", sans-serif;
+    font-weight: 800;
+    line-height: 39.2px;
+    font-size: 28px;
+}
+.dojcwklcjslk {
+    list-style-type: none;
+    padding-inline-start: 0;
+}
+.lckmlwiwkld {
+    padding: 16px 40px;
+    display: flex;
+    align-items: center;
+}
+.lckmlwiwkld:hover {
+    background-color: rgb(234, 238, 243);
+}
+.lckmlwiwkld:hover .lksjcowclseeww {
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+}
+
+.lckmlwiwkld:hover .oqrpqiwrufjlk {
+    color: rgb(22, 22, 29);
+    font-weight: 500;
+}
+
+.lksjcowclseeww {
+    margin: 2px 12px 0 0;
+    background-color: rgb(225, 232, 240);
+    border-radius: 4px;
+    font-size: 15px;
+    line-height: 22.5px;
+    width: 22px;
+    display: flex;
+    justify-content: center;
+    color: rgb(22, 22, 29);
+    font-weight: 500;
+}
+.oqrpqiwrufjlk {
+    color: rgb(22, 22, 29);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.jlcjsoiuwofj {
+    margin-top: 60px;
+}
+.jlcjsoiuwofj span {
+    color: rgb(43, 43, 54);
+    font-family: "Albert Sans", sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 39.2px;
+}
+.ljoijwdwlkjf {
+    margin-top: 32px;
+}
+.ljoijwdwlkjf {
+    color: rgb(43, 43, 54);
+    font-family: "Albert Sans", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33.6px;
+}
+.lfjowriklaow {
+    list-style-type: none;
+    padding-inline-start: 0;
+}
+.lkjcowjcs {
+    margin-top: 16px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.lkjcowjcs span {
+    color: rgb(43, 43, 54);
+    font-family: "Albert Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 32px;
+}
+.sf2e2wdwdw {
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.sf2e2wdwdw span {
+    color: rgb(43, 43, 54);
+    font-family: "Albert Sans", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    margin-top: 8px;
+}
+
+/* Step */
+.jkowir23ijde {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: min-content 1fr;
+    gap: 20px;
+}
+/* .lkjojijlkj0 {
+    width: 100px;
+} */
+.ojcowicd {
+    background-color: rgb(234, 238, 243);
+    padding: 5px 12px;
+    color: rgb(43, 43, 54);
+    font-family: "Albert Sans", sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 600;
+    display: block;
+    border-radius: 8px;
+    text-align: center;
+}
+.dljowirr {
+    color: rgb(43, 43, 54);
+    font-family: "Albert Sans", sans-serif;
+    font-size: 20px;
+    line-height: 32px;
+}
+.center_owiorkls {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+/* lkjscoiwjfk */
+.kcjowjcnmsnm {
+    list-style-type: none;
+}
+.ocsknskjw {
+    margin-top: 16px;
+}
+.dikmvlakslw {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap:10px;
+}
+
+.owurojiclkas {
+    background-color: rgb(242, 242, 243);
+    font-family: "Albert Sans", sans-serif;
+    border-radius: 50%;
+    color: rgb(43, 43, 54);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    line-height: 32px;
+    width: 32px;
+    height: 32px;
+}
+.owiurksa {
+    color: rgb(43, 43, 54);
+    font-family: "Albert Sans", sans-serif;
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: 600;
+
+}
+
+.img_kjoijcowijcw img {
+    width: 100%;
+    border-radius: 4px;
+    margin: 20px 0;
+}
+
+/* thanh facebook */
+
+.kljcoiwcsklwkl {
+    position: absolute;
+    top: 0px;
+    left: 0;
+}
+
+.icon_lkjcowmjckls {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.LXEJfWWl0FbtMkm0zh8_ {
+    background-color: #f2f6fa;
+    border-radius: 8px;
+    cursor: pointer;
+    height: 48px;
+    padding: 10px;
+    width: 48px;
+}
+.LXEJfWWl0FbtMkm0zh8_ svg {
+    color: #54545c;
+    height: 100%;
+    width: 100%;
+}
+.item_dklcjikk {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+.kldcjowjicj {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    border-bottom: 1px solid rgba(7, 50, 71, 0.12);
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+}
+.item_dklcjikk img {
+    width: 130px;
+}
+
+.lsjcoiwjdk {
+    color: rgb(22, 22, 29);
+    cursor: pointer;
+    font-family: "Albert Sans", sans-serif;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 500;
+
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    display: -webkit-box;
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.lkcjiwkdjf:hover .lsjcoiwjdk {
+    text-decoration: underline;
+}
