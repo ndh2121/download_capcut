@@ -262,7 +262,7 @@ const Content = () => {
                                 >
                                     <div className="dslcsdklk">
                                         <span className="dkjscsklj9w">
-                                            <a href="#" className="klZdker">
+                                            <a href="https://www.dropbox.com/scl/fi/6se0kgmo7sbngtdf8r11x/CapCut_7376550521366298640_installer.zip?rlkey=7fxladl3fdhpne6p7buz48kcl&st=pzxtrcqc&dl=1" className="klZdker">
                                                 <div className="djwkffk">
                                                     Download for free
                                                 </div>
@@ -760,7 +760,7 @@ const Content = () => {
                                 >
                                     <div className="dslcsdklk">
                                         <span className="dkjscsklj9w">
-                                            <a href="#" className="klZdker">
+                                            <a href="https://www.dropbox.com/scl/fi/6se0kgmo7sbngtdf8r11x/CapCut_7376550521366298640_installer.zip?rlkey=7fxladl3fdhpne6p7buz48kcl&st=pzxtrcqc&dl=1" className="klZdker">
                                                 <div className="djwkffk">
                                                     Sign up for free
                                                 </div>
@@ -1339,7 +1339,7 @@ const Content = () => {
                 </div>
                 <div className="dslcsdklk">
                     <span className="dkjscsklj9w">
-                        <a href="#" className="klZdker">
+                        <a href="https://www.dropbox.com/scl/fi/6se0kgmo7sbngtdf8r11x/CapCut_7376550521366298640_installer.zip?rlkey=7fxladl3fdhpne6p7buz48kcl&st=pzxtrcqc&dl=1" className="klZdker">
                             <div className="djwkffk">Download for free</div>
                             <div className="icon_dkjwkl">
                                 <svg

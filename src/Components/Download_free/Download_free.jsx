@@ -93,7 +93,7 @@ const Download_free = () => {
                         </p>
                         <div className="dslcsdklk">
                             <span className="dkjscsklj9w">
-                                <a href="#" className="klZdker">
+                                <a href="https://www.dropbox.com/scl/fi/6se0kgmo7sbngtdf8r11x/CapCut_7376550521366298640_installer.zip?rlkey=7fxladl3fdhpne6p7buz48kcl&st=pzxtrcqc&dl=1" className="klZdker">
                                     <div className="djwkffk">
                                         Download for free
                                     </div>

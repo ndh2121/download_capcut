@@ -39,7 +39,7 @@ const Header = () => {
                     <div className="DJYsflDuETkO8ue_iVc4">
                         <a
                             target="_self"
-                            href="#"
+                            href="https://www.dropbox.com/scl/fi/6se0kgmo7sbngtdf8r11x/CapCut_7376550521366298640_installer.zip?rlkey=7fxladl3fdhpne6p7buz48kcl&st=pzxtrcqc&dl=1"
                             className="lv-btn lv-btn-size-default lv-btn-shape-square lv-btn-link black-text"
                         >
                             <span>

@@ -148,7 +148,7 @@ const Tesdkd = () => {
                             <span>
                                 <a
                                     target="_blank"
-                                    href="https://www.capcut.com/activity/download_pc"
+                                    href="https://www.dropbox.com/scl/fi/6se0kgmo7sbngtdf8r11x/CapCut_7376550521366298640_installer.zip?rlkey=7fxladl3fdhpne6p7buz48kcl&st=pzxtrcqc&dl=1"
                                     style={{ minWidth: "200px" }}
                                     className="arco-btn arco-btn-primary arco-btn-size-default arco-btn-shape-square arco-btn-link custom_button custom-theme-dark button-new-size-rule"
                                 >
